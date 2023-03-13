@@ -4,7 +4,7 @@ I am a self-taught QA Engineer from Spain.
 
 Something about me: 
 
-- 📖 I’m currently learning Kotlin and communication skills
+- 📖 I’m currently reading "Thinking fast and slow" from Daniel Kahneman
 - 🥰 Love testing activities (analyzing requirements, risks, incidents, create test strategy and test plans, explore...)
 - 🔍 Curious about new technologies
 
